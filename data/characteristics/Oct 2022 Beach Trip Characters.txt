@@ -1,11 +1,6 @@
-John: A 43-year-old father of three, married to Leo, dad to Sophie from a previous relationship, and dad to Luca and Adelina with Leo.
-
-Leo: John's husband, father to Luca and Adelina, son of Nancy.
-
-Sophie: 10-year-old daughter of John from a previous marriage, spends half the time with him and Leo.
-
-Luca: Son of John and Leo, turns two in February of 2023.
-
-Adelina: Daughter of John and Leo who turned one at the end of June in 2023.
-
-Nancy: Mother-in-law of John, mother to Leo, lives in Madrid, Spain but visited her family in 2023 after the birth of her granddaughter, Adelina.
+John: 43-year-old narrator, married to Leo, father to Sophie, Luca and Adelina. Went on a family road trip.
+Leo: John's husband, son of Nancy. Took part in the road trip.
+Sophie: John's 10-year-old daughter from a previous marriage, big sister to Luca and Adelina, spends half of her time with John and Leo, experienced guiding Luca in building sand castles.
+Luca: John and Leo's 2-year-old son as of February 2023, Sophie's younger brother, experiencing sand castles for the first time.
+Adelina: John and Leo's 1-year-old daughter as of June 2023, youngest sibling, ate sand for the first time during the road trip.
+Nancy: Leo's mother, John's mother-in-law, lives typically in Spain. She came for a several months visit and joined the road trip.
